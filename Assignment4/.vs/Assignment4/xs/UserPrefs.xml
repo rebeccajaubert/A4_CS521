@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{E7B0CF7A-11F2-3715-B961-B569AD0467D9}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/TerrainManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/MonsterPlanner.cs" Line="204" Column="109" />
+      <File FileName="Assets/Scripts/ThrowTask.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/PlayerManager.cs" Line="18" Column="55" />
+      <File FileName="Assets/Scripts/PlayerShield.cs" Line="32" Column="61" />
+      <File FileName="Assets/Scripts/Obstacle.cs" Line="62" Column="35" />
+      <File FileName="Assets/Scripts/PlayerMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/TerrainManager.cs" Line="10" Column="80" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Assignment4" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="TerrainManager.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="8ab1a29b-780a-42f1-ad29-ceed4ed8d712" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
